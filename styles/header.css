@@ -9,8 +9,7 @@ cabeçalho__menu-hamburguer{
 
 .cabeçalho{
     background-color: var(--azul);
-}
-display: flex;
+    display: flex;
    justify-content: space-between;
 }
 
