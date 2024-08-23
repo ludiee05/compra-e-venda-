@@ -1,3 +1,4 @@
+@import url("styles/header.css");
 :root{
     --cor-de-fundo: #8cc6f585;
 }
@@ -6,4 +7,3 @@ body{
 }
 h1{background-color: #8cc6f585;
 }
-@import url("styles/header.css");
