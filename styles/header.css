@@ -43,7 +43,7 @@
 .lista-menu__link{
     background: var(--marrom-degrade);
     -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+    -webkit-text-fill-color: burlywood;
     background-clip: text;
     text-transform: uppercase;
     .lista-menu{
