@@ -1,6 +1,9 @@
 @import url("styles/header.css");
 :root{
     --cor-de-fundo: #bd9b6785;
+    --branco:  #FFFFFF;
+    --amarelo:  #FECD2F;
+    --roxo-degrade: linear-gradient(94.49deg,  #cfb45a 35.48%,  #C75EEB 143.32%);
 }
 body{
     background-color: var(--cor-de-fundo);
